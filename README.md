@@ -1,2 +1,2 @@
-# temp-repo-for-educational-purpose
-- nothing -
+# Temp Repo
+this repository is for educational purposes only.
